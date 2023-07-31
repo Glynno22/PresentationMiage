@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Présentation & Services</title>
     <link rel="shortcut icon" href="#" type="image/x-icon" />
     <link rel="apple-touch-icon" href="#" />
 
@@ -19,10 +19,9 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/custom.css" />
 </head>
-<body >
-
-    
+<body id="inner_page" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
     <?php @include "header.php" ?>
+    
 
 
 <!-- section -->
@@ -32,7 +31,7 @@
         <div class="row">
             <div class="col-12">
                <div class="full">
-                   <h3>Présentation</h3>
+                   <h3>Présentation & Services</h3>
                </div>
             </div>
         </div>
@@ -43,9 +42,9 @@
 
   <div class="full" margin="30px ">
     <div class="heading_main text_align_left">
-       <h2>Présentation de la filière MIAGE</h2>
+       <h2>Présentation de la structure Emergence Tech</h2>
     </div>
-</div>  
+  </div>  
 
 <!-- section -->
 <div class="section margin-top_50">
@@ -54,24 +53,25 @@
             <div class="col-md-6 layout_padding_2">
                 <div class="full">
                     <div class="heading_main text_align_left">
-                       <h2><span>Statut </span> de la MIAGE </h2>
+                       <h2><span>Emergence </span> Technologie </h2>
                     </div>
                     <div class="full">
-                      <p>La MIAGE est une filière Professionnelle de la faculté des sciences de l'université
-                        de Douala avec un cursus de maîtrise sur trois ans. Elle est placée sous le
-                        contrôle d'une Commission Pédagogique au sein de l'université de Douala et de
-                        l'IRISA dont le rôle est de proposer les grandes lignes du programme et les
-                        principes régissant les modalités d'admission des étudiants, et de suivre le
-                        fonctionnement de la formation. Dirigé par le Doyen de la faculté , un Conseil de
-                        Perfectionnement a un rôle consultatif sur les problèmes concernant les modalités
-                        d'admission des étudiants, le règlement des études, l'organisation des stages, et
-                        le choix des professionnels.
-                    </p>
+                        <p>
+                            Bienvenue chez Emergence Tech, votre partenaire incontournable dans le monde numérique ! 
+                            Notre entreprise est spécialisée dans le développement d'applications Web et Mobile, 
+                            la création de sites Web responsifs, le community management, ainsi que le design graphique, 
+                            offrant ainsi une gamme complète de services pour répondre aux besoins variés de nos clients.
+                        </p>
                     
                 </div>
             </div>
             
         </div>
+        <div class="col-md-6">
+             <div class="full">
+                 <img src="images/logobleu.png" alt="image">
+             </div>
+         </div>
     </div>
 </div>
 <!-- end section -->
@@ -82,28 +82,16 @@
                 <div class="col-md-6 layout_padding_2">
                     <div class="full">
                         <div class="heading_main text_align_left">
-						   <h2><span></span>MIAGE </h2>
+						   <h2>Statut <span>Emergence</span> </h2>
                         </div>
 						<div class="full">
-						  <p>La maîtrise des Méthodes 
-                              Informatiques Appliquées à la Gestion des Entreprises possede une forte empreinte professionnelle grace:
-                              <ul>
-                                 <li>Aux enseignements a la tonalite professionnelle en grande majorite,assures par de 
-                                    professionnels de l'entreprise.
-                                 </li>
-                                 <li>Aux seminaires et conferences orgainisés régulièrement et animés par des experts </li>
-                                 <li>aux rencontres informelles proposées avec des représentants d'Entreprises
-                                    du secteurs Informatiques
-                                 </li>
-                                 <li>Aux enseignementsou projets de communication axés sur les dimensions relationnelles
-                                    et managériales auxquelles doivent être for,és de futurs cadre
-                                 </li>
-                                 <li>à la réalisation de projets et stage en entreprise. </li>
-                               </ul>
-                             
-                                     <br>
-
-                            </p>
+						  <p>
+                          Chez Emergence Tech, notre passion pour l'innovation, notre dévouement envers la qualité 
+                          et notre approche orientée client nous permettent de créer des solutions sur mesure qui stimulent 
+                          la croissance de votre entreprise. Notre objectif ultime est de devenir votre partenaire de confiance 
+                          dans votre voyage numérique, en vous aidant à émerger en tant que leader sur votre marché tout en offrant 
+                          des expériences exceptionnelles à vos clients.
+                          </p>
 						
                     </div>
                 </div>
@@ -113,7 +101,7 @@
          </div>
          <div class="col-md-6">
              <div class="full">
-                 <video src="images/Fac Sciences - Facebook.mp4" controls></video>
+                 <img src="image/" alt="image">
              </div>
          </div>
      </div>
@@ -126,40 +114,10 @@
             <div class="col-md-6 layout_padding_2">
                 <div class="full">
                     <div class="heading_main text_align_left">
-                       <h2><span>Competences visee </span>MIAGE </h2>
+                       <h2><span>Presentation </span>des Services </h2>
                     </div>
                     <div class="full">
-                      <p><strong>le Master MIAGE</strong> est 
-                        structurellement donc des competences dans trois directions principales:
-                        <br>
-                        la maitrise des techniques et des methodes de l'informatique et 
-                                    la capcité à cerner leurs evolutions, 
-                        <ul>
-                            <li><em>
-                                la capacité à analyser le fonctionnement des organisations,leur structure et 
-                                les iteractions internes et externes dans leurs diverses dimensions(techniques;humaine,financière;
-                                industrielle,commerciale,...) leur pilotage aux differents niveaux(stratégique,tactique,opérationnel).
-                            </em>
-
-                            </li>
-                            <li><em>la capacité à proposer et à mettre oeuvre des solutions Informatiques 
-                                concrètes pour alméliorer ce fonctionnement et ce pilotage,étant entendu que ces solutions doivent être
-                                intégrées et être coherentes pour constituer le système d'information et de décision de l'entreprise</em>
-                            </li>
-                            <li>
-                                <em>
-                                    autour de ces compétences centrales, viennent se greffer d'autres compétences comme les mathématiques comme
-                                    les mathématiques de la décision, le droit des Entreprises,lq communication écrites 
-                                    et orale tant en français qu'en langue étrangère.
-                                </em>
-                            </li>
-                            <li>
-                                <em>
-                                    l'acquisition d'une double compétences, à la fois en informatique et en gestion. Confère aux jeunes diplomés
-                                    le niveau théoriques et le savoir-faire nécessaires pour leur entrée dans la vie active.
-                                </em>
-                            </li>
-                        </ul>
+                    <p>
                         
                     </p>
                     </div>
@@ -167,16 +125,150 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="full">
-                    <img src="images/compt.png" alt="#" />
-                </div>
+                <!-- <div class="full">
+                    <img src="images/" alt="image" />
+                </div> -->
             </div>
         </div>
+        <div class="row" id="pwm">
+            <div class="heading_main text_align_left ml-5">
+                <h2><span>Devellopement apk Web et Mobile </span> </h2>
+            </div>
+        </div>
+            
+        <div class="row">
+            <div class="col-md-6 layout_padding_2">
+                <div class="full">
+                    
+                    <div class="full">
+                    <p>
+                        Développement d'applications Web et Mobile :<br>
+                        Notre équipe talentueuse de développeurs expérimentés crée des applications Web et Mobile sur 
+                        mesure pour répondre aux exigences uniques de votre entreprise. Que vous ayez besoin d'une 
+                        application interne pour améliorer l'efficacité de vos processus ou d'une application mobile 
+                        conviviale pour accroître votre présence auprès des utilisateurs, nous sommes là pour réaliser 
+                        vos projets. Notre objectif est de fournir des solutions technologiques innovantes qui augmentent 
+                        votre productivité, améliorent l'expérience utilisateur et renforcent votre positionnement sur le marché.
+                    </p>
+                    </div>
+                    <!-- <div class="full ml-5" mb->
+			            <a class="hvr-radial-out button-theme" href="devieAPKWeb&Mobile.php">Apply</a>
+			        </div> -->
+                    
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img src="images/DévAppMobiles.webp" alt="image" />
+                </div>
+            </div>
+            <div class="full ml-5 mb-5">
+			   <a class="hvr-radial-out button-theme" href="devieAPKWeb&Mobile.php">Apply</a>
+			</div>
+        </div>
+
+        <div class="row" id="psw">
+            <div class="heading_main text_align_left ml-5">
+                <h2><span>Devellopement des Sites Web  </span> </h2>
+            </div>
+        </div>
+            
+        <div class="row">
+            <div class="col-md-6 layout_padding_2">
+                <div class="full">
+                    
+                    <div class="full">
+                    <p>
+                    Un site Web est la vitrine en ligne de votre entreprise, c'est pourquoi nous concevons des 
+                    sites Web réactifs qui s'adaptent parfaitement à tous les appareils, qu'il s'agisse d'ordinateurs 
+                    de bureau, de tablettes ou de smartphones. Notre approche centrée sur l'utilisateur garantit que 
+                    votre site offre une expérience de navigation fluide et agréable à tous les visiteurs. L'objectif 
+                    ici est de vous aider à accroître votre visibilité en ligne, à renforcer votre image de marque et 
+                    à attirer de nouveaux prospects.
+                    </p>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img src="images/siteWeb.jpeg" alt="image" />
+                </div>
+            </div>
+            <div class="full ml-5 mb-5">
+			   <a class="hvr-radial-out button-theme" href="">Apply</a>
+			</div>
+        </div>
+
+        <div class="row" id="graphe">
+            <div class="heading_main text_align_left ml-5">
+                <h2><span>Design Graphique </span> </h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 layout_padding_2">
+                <div class="full">
+                    <div class="full">
+                    <p>
+                    Le design graphique joue un rôle essentiel dans la communication visuelle de votre marque. 
+                    Que ce soit pour la conception de votre logo, la création de supports de marketing attrayants 
+                    ou le développement d'une identité visuelle cohérente, notre équipe de designers talentueux est 
+                    là pour donner vie à vos idées. Notre objectif est de renforcer l'impact visuel de votre marque, 
+                    de susciter l'engagement de votre audience et de vous démarquer de la concurrence.
+                    </p>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img src="images/designer.jpeg" alt="image" />
+                </div>
+            </div>
+            <div class="full ml-5 mb-5">
+			   <a class="hvr-radial-out button-theme" href="">Apply</a>
+			</div>
+        </div>
+        <div class="row" id="ComManage">
+            <div class="heading_main text_align_left ml-5">
+                <h2><span>Community Management </span> </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 layout_padding_2">
+                <div class="full">
+                    <div class="full">
+                    <p>
+                        Les médias sociaux sont devenus une plateforme essentielle pour interagir avec votre audience et créer une 
+                        communauté engagée autour de votre marque. Notre équipe de community managers est dédiée à la gestion proactive 
+                        de vos comptes de médias sociaux, en créant du contenu attrayant et en interagissant avec vos abonnés. Notre 
+                        objectif est d'améliorer votre notoriété sur les réseaux sociaux, de susciter l'intérêt de votre public cible 
+                        et de cultiver des relations solides avec vos clients existants.
+                    </p>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img src="images/manager.jpeg" alt="image" />
+                </div>
+            </div>
+            <div class="full ml-5 mb-5">
+			   <a class="hvr-radial-out button-theme" href="">Apply</a>
+			</div>
+        </div>    
     </div>
 </div>
 <!-- end section -->
 
-<?php @include "footer.php" ?>
+
+
+
+<?php
+ @include "footer.php" 
+ ?>
 
 
 

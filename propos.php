@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!-- Site Metas -->
-    <title>Perfect - Responsive HTML5 Template</title>
+    <title>À propos de nous</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -71,7 +71,7 @@
                 <div class="col-md-6 layout_padding_2">
                     <div class="full">
                         <div class="heading_main text_align_left">
-						   <h2><span>MIAGE</span> Education</h2>
+						   <h2><span>Emergence</span> Technologie</h2>
                         </div>
 						<div class="full">
 						  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -90,6 +90,7 @@
         </div>
     </div>
 	<!-- end section -->
+
 	<!-- section -->
     <div class="section layout_padding">
         <div class="container">
@@ -97,20 +98,20 @@
                 <div class="col-md-12">
                     <div class="full">
                         <div class="heading_main text_align_center">
-						   <h2><span>Les temoignages des </span>(Ex-)Etudiannts</h2>
+						   <h2><span>Nos differentes </span>Réalisations</h2>
                         </div>
 					  </div>
                 </div>
 				<div class="col-md-4">
                     <div class="full blog_img_popular">
                        <img class="img-responsive" src="images/p1.png" alt="#" /> 
-					   <h4>Financial Accounting</h4>
+					   <h4>design Graphique</h4>
                     </div>
                 </div>
 				<div class="col-md-4">
                     <div class="full blog_img_popular">
                         <img class="img-responsive" src="images/p2.png" alt="#" />
-						<h4>Managerial Accounting</h4>
+						<h4>Community Managment</h4>
                     </div>
                 </div>
 				<div class="col-md-4">
@@ -120,9 +121,32 @@
                     </div>
                 </div>
             </div>
+			<div class="row">
+				<div class="col-md-4">
+                    <div class="full blog_img_popular">
+                       <img class="img-responsive" src="images/p1.png" alt="#" /> 
+					   <h4>design Graphique</h4>
+                    </div>
+                </div>
+				<div class="col-md-4">
+                    <div class="full blog_img_popular">
+                        <img class="img-responsive" src="images/p2.png" alt="#" />
+						<h4>Community Managment</h4>
+                    </div>
+                </div>
+				<div class="col-md-4">
+                    <div class="full blog_img_popular">
+                        <img class="img-responsive" src="images/p3.png" alt="#" />
+						<h4>Intermediate Accounting</h4>
+                    </div>
+                </div>
+			</div>
+			
         </div>
     </div>
 	<!-- end section -->
+
+	
 	<?php @include "footer.php" ?>
 
 

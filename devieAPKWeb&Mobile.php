@@ -6,12 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!-- Site Metas -->
-    <title>Connexion</title>
+    <title>devieAPKWeb&Mobile</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -21,8 +20,6 @@
     <link rel="apple-touch-icon" href="#" />
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.css" />
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <!-- Pogo Slider CSS -->
     <link rel="stylesheet" href="css/pogo-slider.min.css" />
@@ -42,17 +39,17 @@
 
 <body id="inner_page" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
 
-	<?php @include "connexion.php" ?>
-
-
     <!-- LOADER -->
-    <!-- <div id="preloader">
+    <div id="preloader">
         <div class="loader">
             <img src="images/loader.gif" alt="#" />
         </div>
-    </div> -->
+    </div>
     <!-- end loader -->
     <!-- END LOADER -->
+
+	<?php @include "connexion.php" ?>
+
 
     <!-- Start header -->
 	<?php @include "header.php" ?>
@@ -66,7 +63,7 @@
 	      <div class="row">
 		      <div class="col-12">
 			     <div class="full">
-				     <h3>Connexion </h3>
+				     <h3>Devie Application Web & Mobile</h3>
 				 </div>
 			  </div>
 		  </div>
@@ -79,43 +76,48 @@
     <div class="section layout_padding contact_section" style="background:#f6f6f6;">
         <div class="container">
                <div class="row">
-                 
+                 <div class="col-lg-8 col-md-8 col-sm-12">
+				    <div class="full float-right_img">
+                        <img src="images/logobleu.png" alt="Photo">
+                    </div>
+                 </div>
 				 <div class="col-lg-4 col-md-4 col-sm-12">
 				    <div class="contact_form">
 					<form action="contact.php" method="POST" style=" padding: 5px; border-radius: 15px;">
 						   <fieldset>
 						       <div class="full field">
-							      <input type="text" placeholder="Matricule" name="mat" style="margin-bottom: 0px; outline: none;" />
-								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5);; margin-top: 0;"></div>
+							      <input type="text" placeholder="Nom de L'entreprise / Particulier" name="nom" style="margin-bottom: 0px; outline: none;" />
+								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5); margin-top: 0;"></div>
 							   </div>
 							   <div class="full field">
-							      <input type="text" placeholder="Votre Nom" name="nom" style="margin-bottom: 0px; outline: none;" />
-								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5);; margin-top: 0;"></div>
+							      <input type="email" placeholder="Adresse Email" name="email" style="margin-bottom: 0px; outline: none;" />
+								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5); margin-top: 0;"></div>
 							   </div>
 							   <div class="full field">
-							      <input type="email" placeholder="Adresse Mail" name="email" style="margin-bottom: 0px; outline: none;" />
-								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5);; margin-top: 0;"></div>
+							      <input type="number" placeholder="Numéro téléphone" name="tel" style="margin-bottom: 0px; outline: none;" />
+								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5); margin-top: 0;"></div>
 							   </div>
+							   <div class="full field">
+							      <input type="number" placeholder="Dévies Que vous Proposez" name="devies" style="margin-bottom: 0px; outline: none;" />
+								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5); margin-top: 0;"></div>
+							   </div>
+							   
 							   <div class="full field" >
-							      <input type="password" placeholder="Mot de Passe" style="margin-bottom: 0px; outline: none;"></input>
-								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5);; margin-top: 0;"></div>
+							      <textarea placeholder="Déscription du Projet" name="message" style="margin-bottom: 0px; outline: none;"></textarea>
+								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5); margin-top: 0;"></div>
 							   </div>
 							   <div class="full field">
-							      <div class="center"><input type="submit" value="Connexion" style="margin-bottom: 0px; outline: none;"></div>
-								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5);; margin-top: 0;"></div>
+								  <label for="">Importer un cahier de charge si Possible</label>
+							      <input type="file" name="tel" style="margin-bottom: 0px; outline: none;" />
+								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5); margin-top: 0;"></div>
 							   </div>
-							   <div class="full field mt-5 ">
-									<p>Accès autorisé aux Administrateurs !!</p>
+							   <div class="full field">
+							      <div class="center"><input type="submit" value="Envoyer" style="margin-bottom: 0px; outline: none;"></div>
+								  <div style="width: 100%; height: 4px; background-image: linear-gradient(to right, #002247, #bde1e5); margin-top: 0;"></div>
 							   </div>
 						   </fieldset>
 						</form>
-                        
 					</div>
-                 </div>
-				 <div class="col-lg-8 col-md-8 col-sm-12">
-				    <div class="full float-right_img">
-                        <img src="images/logobleu.png" alt="#">
-                    </div>
                  </div>
                </div>			  
            </div>

@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!-- Site Metas -->
-    <title>Perfect - MIAGE</title>
+    <title>Emergence Technologie</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -20,6 +20,8 @@
     <link rel="apple-touch-icon" href="#" />
 
     <!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="css/bootstrap.css" /> -->
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css" /> -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <!-- Pogo Slider CSS -->
     <link rel="stylesheet" href="css/pogo-slider.min.css" />
@@ -63,8 +65,8 @@
                             <div class="row">
                                 <div class="col-md-12" style="margin-top: 85px;">
                                     <div class="slide_text">
-                                        <h3><span span class="theme_color">Bienvenue</span><br>à La formation professionnel MIAGE</h3>
-                                        <h4>La formation professionnel par excellence</h4>
+                                        <h3><span span class="theme_color">Bienvenue</span><br>à Emergence Technologie</h3>
+                                        <h4>Vos Exigences, Notre priorité</h4>
                                         <br>
                                     </div>
                                 </div>
@@ -76,8 +78,8 @@
                             <div class="row">
                                 <div class="col-md-12" style="margin-top: 85px;">
                                     <div class="slide_text">
-                                        <h3><span span class="theme_color">Vous n'avez qu'une chose à savoir</span><br>Vous pouvez tout apprendre sur l'Informatique</h3>
-                                        <h4>Free Educations</h4>
+                                        <h3><span span class="theme_color">Découvrez nos services de .</span><br>développement web & Mobile, graphisme et community management</h3>
+                                        <h4>La qualité au rendez-vous</h4>
                                         <br>
                                         
                                     </div>
@@ -98,31 +100,104 @@
             <div class="row">
                 <div class="col-md-6 layout_padding_2">
                     <div class="full">
-                        <div class="heading_main text_align_left">
-						   <h2><span>Bienevue à </span>MIAGE </h2>
+                        <div class="text_align_left heading_main">
+						   <h2><span>Bienevue à </span>Emergence Technologie </h2>
                         </div>
 						<div class="full">
-						  <p>La maîtrise des Méthodes 
-                            Informatiques Appliquées à la Gestion des Entreprises
-                             fonctionne à l'Université de Douala depuis octobre 2002. Elle s'appuie sur le potentiel de l'IRISA (Institut de Recherche en Informatique et Systèmes Aléatoires) et de l'ESSEC (Ecole Supérieure des Sciences Economiques).
+						    <p>
+                            Bienvenue chez Emergence Tech, votre partenaire incontournable dans le monde numérique ! Notre entreprise 
+                            est spécialisée dans le développement d'applications Web et Mobile, la création de sites Web responsifs, 
+                            le community management, ainsi que le design graphique, offrant ainsi une gamme complète de services pour 
+                            répondre aux besoins variés de nos clients.
                             <br>
-
-                        </p>
+                             Chez Emergence Tech, nous avons à cœur d'améliorer en permanence nos services pour offrir à nos clients une 
+                            expérience toujours plus satisfaisante et performante. Voici quelques-unes des mesures que nous prenons pour 
+                            constamment nous améliorer :
+                            </p>
 						</div>
                     </div>
                 </div>
 				<div class="col-md-6">
                     <div class="full">
-                        <img src="images/miage.png" alt="#" />
+                        <img src="images/logobleu.png" alt="Logo Emergence Tech" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
 	<!-- end section -->
-	
+
+    <!-- section -->
+    <div class="section margin-top_50">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 layout_padding_2">
+                    <div class="full">
+                        <div class="text_align_left heading_main">
+						   <h2><span>Mésures d'</span>Emergence Technologie </h2>
+                        </div>
+						<div class="full">
+						    
+                            <ol>
+                                <li>
+                                    Suivi des tendances technologiques : Nous restons constamment à l'affût des dernières avancées technologiques 
+                                    dans les domaines du développement d'applications, du design graphique, et du community management. Cela nous 
+                                    permet de proposer des solutions innovantes et adaptées aux besoins changeants de nos clients.
+                                </li><br>
+
+                                <li>
+                                    Rétroaction client : Votre avis est précieux pour nous ! Nous sollicitons régulièrement les retours de nos 
+                                    clients pour comprendre ce qui fonctionne bien et ce qui peut être amélioré dans nos services. Ces commentaires 
+                                    nous aident à apporter des ajustements et des améliorations pour mieux répondre à vos attentes.
+                                </li><br>
+                                
+                                <li>
+                                    Formation continue de notre équipe : Nous investissons dans la formation et le développement de notre équipe afin 
+                                    qu'elle reste à la pointe des technologies et des meilleures pratiques. Cela garantit que nos collaborateurs 
+                                    disposent des compétences nécessaires pour fournir des solutions de haute qualité.
+                                </li><br>
+
+                                <li>
+                                    Veille concurrentielle : Nous surveillons également les activités de nos concurrents pour rester compétitifs 
+                                    et nous inspirer de bonnes pratiques. Cela nous permet de nous différencier en offrant des services uniques et de 
+                                    qualité supérieure.
+                                </li><br>
+
+                                <li>
+                                    Amélioration des délais de livraison : Nous attachons une grande importance à respecter les délais convenus avec 
+                                    nos clients. Pour cela, nous optimisons nos processus internes et mettons en place des outils de gestion de projet 
+                                    efficaces pour garantir une livraison en temps et en heure.
+                                </li><br>
+
+                                <li>
+                                    Personnalisation des solutions : Chaque client est unique, et nous comprenons que leurs besoins peuvent varier. Nous 
+                                    mettons donc un point d'honneur à proposer des solutions personnalisées, adaptées spécifiquement à chaque projet et à 
+                                    chaque entreprise.
+                                </li><br>
+
+                                <li>
+                                    Sécurité et confidentialité : La sécurité des données de nos clients est primordiale. Nous mettons en place des mesures 
+                                    strictes pour protéger vos informations et assurer la confidentialité de vos projets.
+                                </li><br>
+
+                            </ol>
+                            
+						</div>
+                    </div>
+                </div>
+				<!-- <div class="col-md-6">
+                    <div class="full">
+                        <img src="images/miag.png" alt="Logo Emergence Tech" />
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </div>
+	<!-- end section -->
+                
 	<!-- section -->
-    <div class="section margin-top_50 silver_bg">
+    
+    <!-- <div class="section margin-top_50 silver_bg">
         <div class="container">
             <div class="row">
 			    <div class="col-md-6">
@@ -147,6 +222,65 @@
 						</div>
                     </div>
                 </div>
+			</div>
+        </div>
+    </div> -->
+    <div class="section margin-top_50 mb-5 ">
+        <div class="container">
+            
+            <div class="row">
+                <div class="heading_main text_align_left">
+                    <h2><span>Nos services   :</span></h2> <br>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Développement d'applications Web & Mobile</h5>
+                            <p class="card-text">Nous créons des applications Web & Mobile sur mesure pour répondre à vos besoins.</p>
+                            <div class="full ml-5" mb->
+			                    <a class="hvr-radial-out button-theme" href="presentation.php#pwm">Details</a>
+			                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                        <h5 class="card-title">Développement de Site Web</h5>
+                        <p class="card-text">Nous créons des site Web responsive pour accroître votre visibilité en ligne .</p>
+                        <div class="full ml-5" mb->
+			                <a class="hvr-radial-out button-theme" href="presentation.php#psw">Details</a>
+			            </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                        <h5 class="card-title">Graphisme</h5>
+                        <p class="card-text">Notre équipe de graphistes talentueux réalise des designs créatifs et percutants.</p>
+                        <div class="full ml-5" mb->
+			                <a class="hvr-radial-out button-theme" href="presentation.php#graphe">Details</a>
+			            </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                        <h5 class="card-title">Community Management</h5>
+                        <p class="card-text">Nous gérons vos réseaux sociaux pour accroître votre visibilité et votre engagement.</p>
+                        <div class="full ml-5" mb->
+			                <a class="hvr-radial-out button-theme" href="presentation.php#ComManage">Details</a>
+			            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+
+                
 			</div>
         </div>
     </div>
@@ -273,6 +407,8 @@ jQuery(function ($) {
   }
 });
 	</script>
+
+
 </body>
 
 </html>

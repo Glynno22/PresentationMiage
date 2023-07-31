@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!-- Site Metas -->
-    <title>Perfect - Responsive HTML5 Template</title>
+    <title>Contactez nous</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -78,7 +78,7 @@
                <div class="row">
                  <div class="col-lg-8 col-md-8 col-sm-12">
 				    <div class="full float-right_img">
-                        <img src="images/miageapply.png" alt="#">
+                        <img src="images/logobleu.png" alt="Photo">
                     </div>
                  </div>
 				 <div class="col-lg-4 col-md-4 col-sm-12">

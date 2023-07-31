@@ -7,7 +7,7 @@
 		      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 			     <div class="footer_blog">
 				    <div class="full margin-bottom_30">
-					   <img src="images/miage.png" alt="#" />
+					   <img src="images/logoblanc.png" alt="#" />
 					 </div>
 					
 				 </div>
@@ -18,11 +18,12 @@
                          <h3>Liens Rapides</h3>
                          <ul> 
                            <li><a href="index.php">> Accueil</a></li>
-                           <li><a href="presentation.php">> Présentation</a></li>
-                           <li><a href="debouche.php">> Débouchés</a></li>
-                           <li><a href="programme.php">> Programmes</a></li>
+                           <li><a href="presentation.php">> Présentation & Services</a></li>
+                           
+                           <!-- <li><a href="programme.php">> Programmes</a></li> -->
                            <li><a href="propos.php">> À Propos</a></li>
                            <li><a href="contact.php">> Contactez nous</a></li>
+						   <li><a href="connect.php">> Connexion</a></li>
                          </ul>
                       </div>
              </div>
@@ -39,26 +40,9 @@
 								   <input type="email" placeholder="Votre Email" name="email" required />
 								   <input type="submit" value="Envoyer">
 								</form>
+								
 								<?php
-
 									@include "connexion.php";
-									if( isset($_POST['email']) ){
-
-										// recuperation des infos venant du formulaire
-				   
-										$email= $_POST['email'];
-								   
-				   
-										# a present on realise l'insertion dans la base de donnee 
-				   
-										$requette = "INSERT INTO `notification_mail` (`adresse_mail`) VALUES ('$email');";
-				   
-											$connection->exec($requette);
-				   
-										echo "Envoie reussie";
-				   
-									 } 
-
 								?>
 
 							 </div>
@@ -69,9 +53,9 @@
 				 <div class="footer_blog full white_fonts">
 						     <h3>Contactez nous</h3>
 							 <ul class="full">
-							   <li><img src="images/i5.png"><span>Ange RaphaËl<br>Douala,>Cameroun</span></li>
-							   <li><img src="images/i6.png"><span>facsciences@univ-douala.com</span></li>
-							   <li><img src="images/i7.png"><span>+12586954775</span></li>
+							   <li><img src="images/i5.png"><span>City Sport Akwa<br>Douala,Cameroun</span></li>
+							   <li><img src="images/i6.png"><span> <a href="Baliabamarcdonald@gmail.com"> Baliabamarcdonald@gmail.com </a></span></li>
+							   <li><img src="images/i7.png"><span>+237 6 56 94 58 51</span></li>
 							 </ul>
 						 </div>
 					</div>	 
